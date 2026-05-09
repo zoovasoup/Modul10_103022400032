@@ -57,7 +57,7 @@ namespace WebApplication1.Controllers
         {
             new Game(0, listGameNames[0], listGameDev[0], listGameTahun[0],  listGameGenre[0], listGameRating[0], listGamePlatform[0], listGameMode[0], IsOnline[0], listGameHarga[0]),
             new Game(1, listGameNames[1], listGameDev[1], listGameTahun[1],  listGameGenre[1], listGameRating[1], listGamePlatform[1], listGameMode[1], IsOnline[1], listGameHarga[1]),
-            //new Game(2, listGameNames[2], listGameDev[2], listGameTahun[2],  listGameGenre[2], listGameRating[2], listGamePlatform[2], listGameMode[2], IsOnline[2], listGameHarga[2])
+            new Game(2, listGameNames[2], listGameDev[2], listGameTahun[2],  listGameGenre[2], listGameRating[2], listGamePlatform[2], listGameMode[2], IsOnline[2], listGameHarga[2])
         };
 
         private readonly ILogger<GameController> _logger;
