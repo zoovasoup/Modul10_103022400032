@@ -2,6 +2,10 @@
 
 namespace WebApplication1.Controllers
 {
+	
+	/// <summary>
+	/// Controller to manage game data
+	/// </summary>
     [ApiController]
     [Route("[controller]")]
     public class GameController : ControllerBase
@@ -67,12 +71,22 @@ namespace WebApplication1.Controllers
             _logger = logger;
         }
 
+
+        /// <summary>
+        /// Retrieves all games.
+        /// </summary>
+        /// <returns> list of all games. </returns>
         [HttpGet]
-        public IActionResult Get()
+        public IActionResult GetAll()
         {
             return Ok(listGames);
         }
 
+        /// <summary>
+        /// Retrieves a film by its ID.
+        /// </summary>
+        /// <param name="id">The ID of the game to retrieve.</param>
+        /// <returns>The matching game, or 404 if not found</returns>
         [HttpGet("{id}")]
         public IActionResult GetById(int id)
         {
@@ -80,6 +94,11 @@ namespace WebApplication1.Controllers
             return film is null ? NotFound() : Ok(film);
         }
 
+        /// <summary>
+        /// Creates a new game
+        /// </summary>
+        /// <param name="game">the game data to create</param>
+        /// <returns>the created game with its new id</returns>
         [HttpPost]
         public IActionResult Create([FromBody] Game game)
         {
@@ -88,6 +107,12 @@ namespace WebApplication1.Controllers
             return CreatedAtAction(nameof(GetById), new { id = game.id }, game);
         }
 
+        /// <summary>
+        /// update existing game by id.
+        /// </summary>
+        /// <param name="id">the id of the game to update</param>
+        /// <param name="updatedGame">the updated game data</param>
+        /// <returns>The updating game, or 404 if not found</returns>
         [HttpPut("{id}")]
         public IActionResult Update(int id, [FromBody] Game updatedGame)
         {
@@ -104,6 +129,11 @@ namespace WebApplication1.Controllers
             return Ok(game);
         }
 
+        /// <summary>
+        /// Deletes a game by its ID.
+        /// </summary>
+        /// <param name="id">The ID of the game to delete.</param>
+        /// <returns>204 no content, or 404 if not found</returns>
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
