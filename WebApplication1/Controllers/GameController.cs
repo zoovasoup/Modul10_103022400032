@@ -9,7 +9,7 @@ namespace WebApplication1.Controllers
 	/// </summary>
     [ApiController]
     [Route("[controller]")]
-    public class GameController : ControllerBase
+    public class GameController : ControllerBase, IGameController
     {
 
         /// <summary>

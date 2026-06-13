@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Praktikum\\WebApplication1\\",
+  "WorkspaceRootPath": "D:\\Modul10_103022400032\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B4AB297-9F98-4A77-8B0A-340BAF606DF3}|WebApplication1\\WebApplication1.csproj|d:\\praktikum\\webapplication1\\webapplication1\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B4AB297-9F98-4A77-8B0A-340BAF606DF3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|d:\\modul10_103022400032\\webapplication1\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B4AB297-9F98-4A77-8B0A-340BAF606DF3}|WebApplication1\\WebApplication1.csproj|d:\\praktikum\\webapplication1\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{7B4AB297-9F98-4A77-8B0A-340BAF606DF3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|d:\\modul10_103022400032\\webapplication1\\controllers\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\igamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B4AB297-9F98-4A77-8B0A-340BAF606DF3}|WebApplication1\\WebApplication1.csproj|d:\\praktikum\\webapplication1\\webapplication1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B4AB297-9F98-4A77-8B0A-340BAF606DF3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|d:\\modul10_103022400032\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B4AB297-9F98-4A77-8B0A-340BAF606DF3}|WebApplication1\\WebApplication1.csproj|d:\\praktikum\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B4AB297-9F98-4A77-8B0A-340BAF606DF3}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|d:\\modul10_103022400032\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|d:\\modul10_103022400032\\webapplication1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|d:\\modul10_103022400032\\webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1139E486-A36B-6B58-4965-3753D45010A4}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +34,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGameController.cs",
+              "DocumentMoniker": "D:\\Modul10_103022400032\\WebApplication1\\Controllers\\IGameController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\IGameController.cs",
+              "ToolTip": "D:\\Modul10_103022400032\\WebApplication1\\Controllers\\IGameController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\IGameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T01:39:14.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Modul10_103022400032\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Modul10_103022400032\\WebApplication1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T01:36:40.375Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameController.cs",
-              "DocumentMoniker": "D:\\Praktikum\\WebApplication1\\WebApplication1\\Controllers\\GameController.cs",
+              "DocumentMoniker": "D:\\Modul10_103022400032\\WebApplication1\\Controllers\\GameController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\GameController.cs",
-              "ToolTip": "D:\\Praktikum\\WebApplication1\\WebApplication1\\Controllers\\GameController.cs",
+              "ToolTip": "D:\\Modul10_103022400032\\WebApplication1\\Controllers\\GameController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\GameController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAQwGwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-09T00:54:10.643Z",
               "EditorCaption": ""
@@ -45,40 +79,51 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Praktikum\\WebApplication1\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "D:\\Modul10_103022400032\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "D:\\Praktikum\\WebApplication1\\WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Modul10_103022400032\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-09T00:53:50.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "WebApplication1.http",
-              "DocumentMoniker": "D:\\Praktikum\\WebApplication1\\WebApplication1\\WebApplication1.http",
+              "DocumentMoniker": "D:\\Modul10_103022400032\\WebApplication1\\WebApplication1.http",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.http",
-              "ToolTip": "D:\\Praktikum\\WebApplication1\\WebApplication1\\WebApplication1.http",
+              "ToolTip": "D:\\Modul10_103022400032\\WebApplication1\\WebApplication1.http",
               "RelativeToolTip": "WebApplication1\\WebApplication1.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-05-09T00:52:42.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-09T00:52:42.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Game.cs",
-              "DocumentMoniker": "D:\\Praktikum\\WebApplication1\\WebApplication1\\Game.cs",
+              "DocumentMoniker": "D:\\Modul10_103022400032\\WebApplication1\\Game.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Game.cs",
-              "ToolTip": "D:\\Praktikum\\WebApplication1\\WebApplication1\\Game.cs",
+              "ToolTip": "D:\\Modul10_103022400032\\WebApplication1\\Game.cs",
               "RelativeToolTip": "WebApplication1\\Game.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA0wA8AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAArwEQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-09T01:39:46.071Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }
