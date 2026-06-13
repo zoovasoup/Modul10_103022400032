@@ -8,7 +8,7 @@
         /// <summary>
         /// Unique identifier for the game.
         /// </summary>
-        public int id { get; set; }
+        public int Id { get; set; }
 
         /// <summary>
         /// Title of the game
@@ -64,7 +64,7 @@
         public int Harga { get; set; }
 
         /// <summary>
-        /// 
+        /// Initializes a new instance of the Game class.
         /// </summary>
         public Game() { }
 
@@ -81,9 +81,11 @@
         /// <param name="mode">List of available game modes (for example, single-player or multiplayer).</param>
         /// <param name="isOnline">True if the game supports online play; otherwise false.</param>
         /// <param name="harga">Price of the game.</param>
+        /// 
+
         public Game(int id, string nama, string developer, int tahunRilis, string genre, double rating, List<string> platform, List<string> mode, bool isOnline, int harga)
         {
-            this.id = id;
+            this.Id = id;
             Nama = nama;
             Developer = developer;
             TahunRilis = tahunRilis;
