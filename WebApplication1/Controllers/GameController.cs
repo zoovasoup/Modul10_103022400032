@@ -61,13 +61,21 @@ namespace WebApplication1.Controllers
             }
         };
 
+        /// <summary>
+        /// Logger for recording diagnostic and operational messages from the GameController.
+        /// </summary>
+        /// <remarks>Provided by dependency injection and intended for use within controller actions and
+        /// helper methods.</remarks>
         private readonly ILogger<GameController> _logger;
 
+        /// <summary>
+        /// Initializes a new instance of GameController with the specified logger.
+        /// </summary>
+        /// <param name="logger">The logger used for controller logging.</param>
         public GameController(ILogger<GameController> logger)
         {
             _logger = logger;
         }
-
 
         /// <summary>
         /// Retrieves all games.
